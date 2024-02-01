@@ -28,13 +28,13 @@ const Projects = () => {
             title:"ResumeCreator",
             description:"ResumeCreator -  is a site for creating your resume based on a ready-made template.",
             imgUrl: projImg4,
-            githubUrl:"https://andriyvegera.github.io"
+            githubUrl:"https://andriyvegera.github.io/AndriyVegera/"
         },
         {
             title:"CineMagic",
             description:"CineMagic - is a site for finding movies, cartoons, series and more.",
             imgUrl: projImg3,
-            githubUrl:"https://github.com/AndriyVegera/CineMagic"
+            githubUrl:"https://andriyvegera.github.io/CineMagic/"
         }
     ]
     return (

@@ -51,10 +51,10 @@ const Banner = () => {
                             leadership and communication skills that allow me to perform much better in my
                             role.
                         </p>
-                        <button><a className="link" href="https://t.me/haruka_7" target="_blank">Let's connect <ArrowRightCircle size={25}></ArrowRightCircle></a></button>
+                        <button><a className="link" href="https://t.me/haruka_7" target="_blank" rel="noreferrer">Let's connect <ArrowRightCircle size={25}></ArrowRightCircle></a></button>
                     </Col>
                     <Col xs={12} md={6} xl={5}>
-                        <img src={headerImg} alt="Header Image"/>
+                        <img src={headerImg} alt="HeaderImage"/>
                     </Col>
                 </Row>
             </Container>

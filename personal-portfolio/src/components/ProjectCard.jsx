@@ -7,7 +7,7 @@ const ProjectCard = ({title, description, imgUrl, githubUrl}) => {
             <div className="proj-imgbx">
                 <img src={imgUrl} alt=""/>
                 <div className="proj-txtx">
-                    <a href={githubUrl} className="project-link" target="_blank"><h4>{title}</h4></a>
+                    <a href={githubUrl} className="project-link" target="_blank" rel="noreferrer"><h4>{title}</h4></a>
                     <span>{description}</span>
                 </div>
             </div>

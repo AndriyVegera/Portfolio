@@ -10,7 +10,6 @@ import colorSharp from '../assets/img/color-sharp.png';
 const Skills = () => {
     const responsive = {
         superLargeDesktop: {
-            // the naming can be any, depends on you.
             breakpoint: { max: 4000, min: 3000 },
             items: 5
         },
@@ -37,31 +36,31 @@ const Skills = () => {
                             <p>All my skins that I know and can use in my work, and most of them are used in my projects</p>
                             <Carousel responsive={responsive} infinite={true} className="skill-slider">
                                 <div className="item">
-                                    <img src={meter1} alt="Image"/>
+                                    <img src={meter1} alt="Image1"/>
                                     <h5>HTML/CSS</h5>
                                 </div>
                                 <div className="item">
-                                    <img src={meter1} alt="Image"/>
+                                    <img src={meter1} alt="Image2"/>
                                     <h5>JavaScript</h5>
                                 </div>
                                 <div className="item">
-                                    <img src={meter3} alt="Image"/>
+                                    <img src={meter3} alt="Image3"/>
                                     <h5>React</h5>
                                 </div>
                                 <div className="item">
-                                    <img src={meter3} alt="Image"/>
+                                    <img src={meter3} alt="Image4"/>
                                     <h5>Git</h5>
                                 </div>
                                 <div className="item">
-                                    <img src={meter2} alt="Image"/>
+                                    <img src={meter2} alt="Image5"/>
                                     <h5>Redux</h5>
                                 </div>
                                 <div className="item">
-                                    <img src={meter2} alt="Image"/>
+                                    <img src={meter2} alt="Image6"/>
                                     <h5>Next</h5>
                                 </div>
                                 <div className="item">
-                                    <img src={meter2} alt="Image"/>
+                                    <img src={meter2} alt="Image7"/>
                                     <h5>TypeScript</h5>
                                 </div>
                             </Carousel>

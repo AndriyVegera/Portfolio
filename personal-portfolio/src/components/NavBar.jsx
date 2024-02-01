@@ -49,11 +49,11 @@ export const NavBar = () => {
                         </Nav>
                         <span className="navbar-text">
               <div className="social-icon">
-                <a href="https://t.me/haruka_7" target="_blank"><img src={navIcon1} alt="" /></a>
-                <a href="https://github.com/AndriyVegera" target="_blank"><img src={navIcon2} alt="" /></a>
-                <a href="https://www.instagram.com/a.haruka.s/" target="_blank"><img src={navIcon3} alt="" /></a>
+                <a href="https://t.me/haruka_7" target="_blank" rel="noreferrer"><img src={navIcon1} alt="" /></a>
+                <a href="https://github.com/AndriyVegera" target="_blank" rel="noreferrer"><img src={navIcon2} alt="" /></a>
+                <a href="https://www.instagram.com/a.haruka.s/" target="_blank" rel="noreferrer"><img src={navIcon3} alt="" /></a>
               </div>
-                <button><a href="https://t.me/haruka_7" target="_blank"><span>Let’s Connect</span></a></button>
+                <button><a href="https://t.me/haruka_7" target="_blank" rel="noreferrer"><span>Let’s Connect</span></a></button>
             </span>
                     </Navbar.Collapse>
                 </Container>
