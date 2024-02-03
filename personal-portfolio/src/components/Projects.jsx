@@ -22,7 +22,7 @@ const Projects = () => {
             title:"Pokemon",
             description:"A site for choosing Pokémon where you can see the characteristics of Pokémon, their elements and much more.",
             imgUrl: projImg2,
-            githubUrl:"https://github.com/AndriyVegera/Pokemon"
+            githubUrl:"https://andriyvegera.github.io/Pokemon/"
         },
         {
             title:"ResumeCreator",
